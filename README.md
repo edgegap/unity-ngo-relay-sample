@@ -1,2 +1,5 @@
 # unity-ngo-relay-sample
-Relay sample for Netcode for GameObjects (NGO) on Unity
+Sample using Edgegap's relay transport with Netcode for GameObjects (NGO) on Unity.
+
+## Tutorial
+You can see the [full documentation here](https://docs.edgegap.com/docs/relay-transports-samples).
